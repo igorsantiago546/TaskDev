@@ -9,8 +9,21 @@
 <?php include "menu.php"?>
 <br>
 <body>
-    <main>
-        
+    <main class="container-fluid">
+       <div class="container">
+            <div class="row">
+                <div class="col-6 col-md-4" style="background-color: red;">
+                    <h3>Lista de Tarefas</h3>
+                    <h4>Tarefa 1</h4>
+                </div>
+                <div class="col-6 col-md-4" style="background-color: blue;">
+                     <h3>Tarefas</h3>
+                </div>
+                <div class="col-6 col-md-4" style="background-color:aqua;">
+                    <h3>Calendário</h3>
+                </div>
+            </div>
+        </div>
     </main>
     <footer>
         

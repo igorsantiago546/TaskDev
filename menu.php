@@ -24,7 +24,7 @@
    
         <form class="d-flex">
             <div class="container-fluid">
-                <div class="h4 text-white " id="txt"></div>
+                <div class="h4 text-white" id="txt"></div>
             </div>
         </form>
     </div>
